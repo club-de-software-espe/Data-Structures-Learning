@@ -1,0 +1,13 @@
+/******************************************************************************/
+
+Proyecto Final de Estructura de datos 
+
+Realizado por Miguel Guaño y Wladymir Brborich
+
+Este Proyecto ha sido encaminado para el correcto aprendizaje 
+de Estructura de datos.
+
+
+Los autores se enorgullecen de haber realizado el presente programa
+
+/******************************************************************************/
